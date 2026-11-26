@@ -34,7 +34,7 @@ The Creator Companion automatically installs VRChat's [currently supported Unity
 ### Suggesting changes
 Our documentation is public on GitHub, and we appreciate contributions from our community! Click 'Edit this page' at the bottom of any page to suggest changes.
 
-When suggesting changes, GitHub will ask you to
+When suggesting changes, GitHub will ask you to 
 1. [Sign up](https://github.com/join) for a free GitHub account,
 2. [Create a fork](https://github.com/vrchat-community/creator-companion/fork) of this repository,
 3. [Edit the page](https://github.com/vrchat-community/creator-companion/edit/main/Docs/docs/index.md) with GitHub's built-in Markdown editor,
